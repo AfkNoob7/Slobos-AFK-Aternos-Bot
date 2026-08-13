@@ -8,7 +8,7 @@
   "server": {
     "ip": "swarnim.aternos.me",
     "port": 39320,
-    "version": "26.2",
+    "version": "1.26.1",
     "try-creative": false
   },
   "position": {
